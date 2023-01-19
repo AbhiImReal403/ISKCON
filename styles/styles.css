@@ -90,3 +90,8 @@
   border-top: 0px solid #ddd!important;
   border-right: 1px solid #e9bf5b;
 }
+
+.yellow_bg2 {
+    background: url(../Assets/images/bg3.jpg) repeat;
+    padding: 21px 0px;
+}
